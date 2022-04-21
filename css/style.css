@@ -1,0 +1,66 @@
+.brand-f{
+    width: 300px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    border: 1px solid black;
+
+}
+.brand-i{
+    width: 300px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    border: 1px solid black;
+
+}
+.brand-y{
+    width: 300px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    border: 1px solid black;
+
+}
+.brand-t{
+    width: 300px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    border: 1px solid black;
+
+}
+
+.brand-f:hover{
+    color: violet;
+    background-color: blue;
+}
+.brand-i:hover{
+    background-color: red;
+}
+.brand-y:hover{
+    color: red;
+    background-color: greenyellow;
+}
+.brand-t:hover{
+    color: grey;
+    background-color: skyblue;
+}
+
+
+.brand-f:active{
+    color: blue;
+    background-color: violet;
+}
+.brand-i:active{
+    color: grey;
+    background-color: white;
+}
+.brand-y:active{
+    color: greenyellow;
+    background-color: red;
+}
+.brand-t:active{
+    color: skyblue;
+    background-color: grey;
+}
